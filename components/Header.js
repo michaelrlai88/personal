@@ -3,17 +3,6 @@ import { Link } from 'react-scroll';
 
 import theme from '../styles/theme';
 
-/*
-
-
-
-    &:hover {
-      cursor: pointer;
-      color: ${colors.white};
-    }
-  }
-`; */
-
 const Header = () => {
   return (
     <div className='outer-container'>
