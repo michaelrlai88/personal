@@ -8,7 +8,7 @@ const Header = () => {
     <div className='outer-container'>
       <div className='inner-container'>
         <div className='logo'>
-          <Link to='home' offset={-60}>
+          <Link to='home' offset={-60} smooth={true}>
             Michael Lai
           </Link>
         </div>
